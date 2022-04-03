@@ -1,0 +1,21 @@
+_config.butterfly.yml
+
+Favicon（网站图标）
+Favicon.jpg
+
+Avatar (头像)
+avatar.jpg
+
+
+https://cdn.jsdelivr.net/gh/你的用户名/你的仓库名@发布的版本号/文件路径
+https://cdn.jsdelivr.net/gh/Moonleave/MyCDN@cdn-v1.0/myblog/image/Favicon.jpg
+
+比如：
+
+//加载js
+
+https://cdn.jsdelivr.net/gh/yremp/cdn@1.0/js/jquery.js
+
+//加载图片
+
+https://cdn.jsdelivr.net/gh/yremp/cdn@1.0/images/hb.png
